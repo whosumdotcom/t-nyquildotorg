@@ -1,0 +1,42 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T01:37:47Z",
+  "IdClaims": [
+    {
+      "Claim": "t:nyquildotorg"
+    },
+    {
+      "Claim": "gh:jerwarren"
+    },
+    {
+      "Claim": "mdon:@nyquildotorg@mastodon.social"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "pat:no-account"
+    },
+    {
+      "Claim": "post:no-account"
+    },
+    {
+      "Claim": "spout:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "1898612dd703b8e302b34d10",
+    "Timestamp": "2023-04-06T01:42:46Z",
+    "Signature": "7d0c40c62e17d30a24e8b39065d38538c14d283607a65b97676501e385d22775b794c15ee648d4c081d9fd5ccb62b506add0ba9b229f22a28cd447284be8953b6ef2de91230e0314eb9e0f8de6e6eccb66167b839a7e555922f29a7be366ce215f7870af06a18001686449c67352a35d6bd0d651de80f8d2a2402340524402715dad8a965f0e4d5d75455b61ddc4a1138b63095b979e020512411b4e7f5b9627ca3185b1799134df5a009d634ef82979d81ca7ef40876cab5f93d1b5c2160d82d086f456b5e776e9209bdcdacbd8c261a1b4d65715d1b3c94b816478ece8d97d8d0f8383d6d09bc6c76b81488f3d51df9eaca65d61eb836ee9fdfe0dd4af9ce8"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "c7e8722517795029cb41e6865b0a5c55a41102b8d62c6c06a1df71f0a10d1048",
+  "ContentToHash": "v1|gh:jerwarren,mdon:@nyquildotorg@mastodon.social,med:no-account,pat:no-account,post:no-account,spout:no-account,ss:no-account,t:nyquildotorg|2023-04-06T01:37:47Z"
+}
